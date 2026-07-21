@@ -73,13 +73,6 @@ In this diagram:
 * **Standard Arrows (`-->`)**: Moderate-intensity transmission.
 * **Dotted Arrows (`-.->`)**: Low-intensity, legendary, or unproven connections.
 
-mermaid
-graph TD
-    classDef high fill:#d4edda,stroke:#28a745,stroke-width:2px;
-    classDef med fill:#fff3cd,stroke:#ffc107,stroke-width:2px;
-    classDef low fill:#f8d7da,stroke:#dc3545,stroke-width:2px,stroke-dasharray: 5 5;
-    classDef coreNode fill:#cce5ff,stroke:#004085,stroke-width:3px;
-
 %% --- CHAIN A: Eastern & Middle Eastern Lineage ---
     subgraph ChainA [Chain A: Eastern & Middle Eastern Tradition]
         Sintashta[1. Sintashta Culture<br>2200 BCE]:::high
