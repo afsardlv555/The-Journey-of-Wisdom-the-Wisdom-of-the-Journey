@@ -2,9 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-A global, open-source research initiative dedicated to reconstructing the continuous history, transmission, and critique of world wisdom traditions—from ancient origins to 18th-century Europe and the modern era.
-
----
+A global, open-source academic initiative reconstructing the continuous history, transmission, and critique of world philosophy and esoteric traditions. Moving beyond regional lenses to honor all cultures, it traces the evolution of wisdom from antiquity to the modern era. By combining rigorous scholarship with transparent collaboration, it provides a free, evolving knowledge base, inviting global experts to enrich our collective intellectual heritage.
 
 ## 📚 [The Three Volumes](./volumes/)
 
