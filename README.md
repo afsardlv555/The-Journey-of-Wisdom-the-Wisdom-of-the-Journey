@@ -1,4 +1,4 @@
-# 🕊️ The Journey of Wisdom (Seir-e Hekmat)
+# 🕊️ The Journey of Wisdom and Wisdom of The Journey (Seir-e Hekmat va Hekmat-e Seir)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
