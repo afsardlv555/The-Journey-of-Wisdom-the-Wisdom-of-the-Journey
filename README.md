@@ -43,19 +43,6 @@ The project incorporates an extensive system of **White Sheets (WS Series)**—p
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from researchers, historians, philologists, and open-knowledge advocates worldwide. Please read our **[Contribution Guidelines](CONTRIBUTING.md)** to learn about our research standards, methodology, and how to participate.
-
----
-
-## 📜 License
-
-This project is open-source and licensed under the **Apache License 2.0** - see the [LICENSE](LICE
-NSE) file for details.
-
----
-
 ## 🧭 Comprehensive Mapping of Esoteric Wisdom Transmission (Antiquity to 1717 CE)
 
 ## Executive Summary
@@ -200,4 +187,19 @@ Knights Templar to Freemasonry: The claim of direct lineage between the Knights 
 Cagliostro's Egyptian Freemasonry: Cagliostro’s "Egyptian Rite" was established in the 1780s—prior to Napoleon's Egyptian expedition—and relied on Alexandrian Hermeticism and European occult lore rather than authentic Egyptian hieroglyphic decipherment (which occurred in 1822 via Champollion).  
 Comacini Masters & BMAC Claims: Claims regarding the unbroken continuity of the Comacini Masters or direct transmission from the BMAC complex reflect a recurring historiographical pattern of claiming unbroken linear descent where modern scholarship proves historical ruptures.  
 3. Structural Patterns of Historical Suppression
-Across history, whenever a synthesized esoteric circle accumulated significant influence—such as the Pythagorean Brotherhood, Manichaeism, the Order of Assassins, or the Knights Templar—it faced systematic suppression by dominant political or religious authorities. However, the core intellectual apparatus consistently survived by transferring through key intermediary agents into subsequent cultural paradigms.  
+Across history, whenever a synthesized esoteric circle accumulated significant influence—such as the Pythagorean Brotherhood, Manichaeism, the Order of Assassins, or the Knights Templar—it faced systematic suppression by dominant political or religious authorities. However, the core intellectual apparatus consistently survived by transferring through key intermediary agents into subsequent cultural paradigms.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from researchers, historians, philologists, and open-knowledge advocates worldwide. Please read our **[Contribution Guidelines](CONTRIBUTING.md)** to learn about our research standards, methodology, and how to participate.
+
+---
+
+## 📜 License
+
+This project is open-source and licensed under the **Apache License 2.0** - see the [LICENSE](LICE
+NSE) file for details.
+
+---
