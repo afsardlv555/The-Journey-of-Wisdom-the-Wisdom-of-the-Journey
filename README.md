@@ -17,13 +17,13 @@ A global, open-source research initiative dedicated to reconstructing the contin
 3. **Volume III: Treatise of the Birds**  
    Presenting "The Third Way": moving beyond myth-making and nihilism toward conscious choice, commitment, and collective growth.
 
-📖 **[Read the Full Volume Drafts](./volumes/volumes-complete.md)**
+📖 **[Read the Full Volume Drafts](./volumes/3-volumes-preview.md)**
 
 ---
 
 ## 🔬 [Research & Methodology](./research/)
 
-* 🎓 **[Academic Sources & References](./research/academic-sources.md):** Detailed academic document spanning 18 research chapters.
+* 🎓 **[Academic Sources & References](./research/academic-sources-preview.md):** Detailed academic document spanning 18 research chapters.
 
 ### The 5-Folder Model
 Every historical node is analyzed through five structured lenses:
@@ -39,11 +39,17 @@ Every historical node is analyzed through five structured lenses:
 
 The project incorporates an extensive system of **White Sheets (WS Series)**—providing foundational geographic, historical, epigraphic, and archival data spanning from **Ancient Bactria & Balkh to 18th-Century Enlightenment Europe**.
 
-📂 **[Access Balkh White Sheets](./white-sheets/balkh-white-sheets.md)**
+📂 **[Access Balkh White Sheets](./white-sheets/balkh-white-sheets-preview.md)**
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from researchers, historians, philologists, and open-knowledge advocates worldwide. Please read our **[Contribution Guidelines](CONTRIBUTING.md)** to learn about our research standards, methodology, and how to participate.
 
 ---
 
 ## 📜 License
 
-This project is open-source and licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE
-) file for details.
+This project is open-source and licensed under the **Apache License 2.0** - see the [LICENSE](LICE
+NSE) file for details.
