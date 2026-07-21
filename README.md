@@ -73,14 +73,14 @@ In this diagram:
 * **Standard Arrows (`-->`)**: Moderate-intensity transmission.
 * **Dotted Arrows (`-.->`)**: Low-intensity, legendary, or unproven connections.
 
-```mermaid
+mermaid
 graph TD
     classDef high fill:#d4edda,stroke:#28a745,stroke-width:2px;
     classDef med fill:#fff3cd,stroke:#ffc107,stroke-width:2px;
     classDef low fill:#f8d7da,stroke:#dc3545,stroke-width:2px,stroke-dasharray: 5 5;
     classDef coreNode fill:#cce5ff,stroke:#004085,stroke-width:3px;
 
-    %% --- CHAIN A: Eastern & Middle Eastern Lineage ---
+%% --- CHAIN A: Eastern & Middle Eastern Lineage ---
     subgraph ChainA [Chain A: Eastern & Middle Eastern Tradition]
         Sintashta[1. Sintashta Culture<br>2200 BCE]:::high
         Andronovo[2. Andronovo Culture]:::med
@@ -91,7 +91,7 @@ graph TD
         IslamicPhil[28. Islamic Philosophy / Suhrawardi]:::high
     end
 
-    %% --- CHAIN B: Hellenistic & Sasanian Court Lineage ---
+%% --- CHAIN B: Hellenistic & Sasanian Court Lineage ---
     subgraph ChainB [Chain B: Hellenistic & Sasanian Court]
         Pythagoras[5. Pythagorean Brotherhood]:::high
         Plato[6. Plato / Neoplatonists]:::high
@@ -102,7 +102,7 @@ graph TD
         Baghdad[25. House of Wisdom Bayt al-Hikmah]:::high
     end
 
-    %% --- CHAIN C: Hermetism to Renaissance Lineage ---
+%% --- CHAIN C: Hermetism to Renaissance Lineage ---
     subgraph ChainC [Chain C: Hermetism to European Renaissance]
         Alexandria[16. Corpus Hermeticum / Alexandria]:::high
         Byzantium[37. Byzantine Empire / Plethon]:::high
@@ -110,7 +110,7 @@ graph TD
         Rosicrucian[44. Rosicrucian Manifestos / John Dee]:::high
     end
 
-    %% --- CHAIN D: Operative Guilds & Western Freemasonry Myths ---
+%% --- CHAIN D: Operative Guilds & Western Freemasonry Myths ---
     subgraph ChainD [Chain D: Guild Structure & Western Mythos]
         Collegia[36. Roman Collegia / Comacini Masters]:::low
         Templars[34. Knights Templar]:::low
@@ -120,7 +120,7 @@ graph TD
         GrandLodge[47-49. Premier Grand Lodge of London 1717 CE<br>Anderson & Desaguliers]:::high
     end
 
-    %% Inter- and Intra-Chain Connections
+%% Inter- and Intra-Chain Connections
     Sintashta ==>|Linguistic / Ritual Transmission| Andronovo
     Andronovo -.->|Unsubstantiated Sarianidi Claim| BMAC
     BMAC -.->|Geographical Co-existence| Nubahar
@@ -128,7 +128,7 @@ graph TD
     Nubahar ==>|Administrative Lineage| Barmakids
     Barmakids ==>|Vizierate & Patronage| Baghdad
 
-    Pythagoras ==>|Direct Intellectual Influence| Plato
+Pythagoras ==>|Direct Intellectual Influence| Plato
     Plato ==>|Development of School| Athens
     Athens ==>|Exile of 532 CE| Khosrow
     Khosrow ==>|Refuge for Nestorian Scholars| Gondishapur
@@ -136,18 +136,18 @@ graph TD
     Gondishapur ==>|Translation Movement via Hunayn ibn Ishaq| Baghdad
     Harran ==>|Translation Movement via Thabit ibn Qurra| Baghdad
 
-    Baghdad ==>|Philosophical Synthesis| IslamicPhil
+Baghdad ==>|Philosophical Synthesis| IslamicPhil
     
-    Alexandria ==>|Transmission of Hermetic Texts| Harran
+Alexandria ==>|Transmission of Hermetic Texts| Harran
     Alexandria ==>|Preservation in Byzantine Tradition| Byzantium
     Byzantium ==>|Council of Ferrara-Florence| Florence
     Florence ==>|Northern European Transmission| Rosicrucian
 
-    Collegia -.->|Rejected by Modern Historiography| OldCharges
+Collegia -.->|Rejected by Modern Historiography| OldCharges
     Templars -.->|Myth-Making via Ramsay 1737| GrandLodge
     OldCharges ==>|Organizational Systematization| Schaw
     
-    %% Final Western Convergence
+%% Final Western Convergence
     Schaw ==>|Operative Structure / Art of Memory| Ashmole
     Rosicrucian ==>|Hermetic / Alchemical Culture| Ashmole
     Ashmole ==>|Acceptance of 'Persons of Virtue'| GrandLodge
@@ -160,36 +160,36 @@ Applying the 5-folder analytical framework to the pivotal Western convergence no
 graph TD
     Node[Historical Convergence Node: Initiation of Elias Ashmole - 1646 CE]:::core
 
-    %% 1. Persons
+%% 1. Persons
     Node ==> P[1. Persons: Key Agents]:::folder
     P --> P1[Elias Ashmole: Antiquarian & Alchemist]
     P --> P2[William Schaw: Master of Works to the Crown]
     P --> P3[John Dee: Transmitter of Hermetic-Mathematical Thought]
 
-    %% 2. Texts
+%% 2. Texts
     Node ==> T[2. Texts: Documented Corpus]:::folder
     T --> T1[Rosicrucian Manifestos 1614-1616 CE]
     T --> T2[First & Second Schaw Statutes 1598-1599 CE]
     T --> T3[Ashmole's Personal Diaries - Warrington Lodge]
 
-    %% 3. Institutions
+%% 3. Institutions
     Node ==> I[3. Institutions: Network Structures]:::folder
     I --> I1[Operative Lodge at Warrington]
     I --> I2[The Royal Society 1660 CE]
     I3 --> I3[Scottish Stonemason Guild System]
 
-    %% 4. Concepts
+%% 4. Concepts
     Node ==> C[4. Concepts: Philosophy & Terminology]:::folder
     C --> C1[Acceptance of 'Persons of Virtue' into Operative Lodges]
     C --> C2[The Art of Memory & Esoteric Knowledge]
     C --> C3[Synthesis of Operative Stonemasonry with Spiritual Alchemy]
 
-    %% 5. Symbols
+%% 5. Symbols
     Node ==> S[5. Symbols: Structural & Visual Metaphors]:::folder
     S --> S1[Stonemasonry Tools as Moral Metaphors]
     S --> S2[Hermetic & Rosicrucian Emblemata]
 
-    classDef core fill:#28a745,stroke:#fff,stroke-width:2px,color:#fff;
+classDef core fill:#28a745,stroke:#fff,stroke-width:2px,color:#fff;
     classDef folder fill:#e2e3e5,stroke:#333,stroke-widt
 h:1px;
 
